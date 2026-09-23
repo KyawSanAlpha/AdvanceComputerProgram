@@ -1,6 +1,6 @@
 Assignment 03 — Refactor Store System
 
-Refactored Python store system for 192-201 Advanced Computer Programming with Generative AI (Siam University).
+Refactored Python store system for 192-201 Advanced Computer Programming with Generative AI.
 
 Overview
 
